@@ -29,11 +29,11 @@ Animasi 2D sesuai namanya adalah gambar dua dimensi yang digerakkan secara cepat
 
 Jenis animasi 2D ini dibagi menjadi dua:
 
-    Animasi Cel
+Animasi Cel
 
 Dinamakan animasi cel dari kata celluloid, bahan utama yang digunakan untuk membuat animasi. Proses animasi ini menggunakan setiap cel yang memiliki objek terpisah, namun menggunakan satu background. Nantinya yang digerakkan hanya cel yang berisi gambar objek utama.
 
-    Animasi Path
+Animasi Path
 
 Dalam Animasi Path gambar yang bergerak akan mengikuti suatu alur yang sudah ditentukan. Contohnya animasi kereta yang mengikuti lintasan relnya. Seringkali animasi path berupa pengulangan, dalam artian objek terus bergerak sesuai alurnya hingga kondisi tertentu.
 
@@ -41,27 +41,26 @@ Pengertian Animasi 3D
 
 Dinamakan animasi 3D karena tak hanya memiliki panjang dan lebar, tetapi juga mempunyai kedalaman atau dengan kata lain objek di animasi 3D punya 3 axis (X,Y dan Z). Proses pembuatan animasi 3D dibantu dengan menggunakan komputer, prosesnya bisa dibagi menjadi 3 tahapan dasar, yakni:
 
-    Modeling
+Modeling
 
 Ini adalah tahap pertama proses pembuatan animasi 3D. Di tahapan ini dilakukan proses solid atau membentuk model dasar 3D kemudian diikuti dengan proses shell / boundary untuk menggambarkan bentuk permukaan objek.
 
-    Animation
+Animation
 
 Setelah selesai proses pembentukan objek, selanjutnya adalah proses menggerakkan atau yang disebut animation. Proses ini bisa dilakukan dengan banyak teknik, mulai dari teknik tradisional, full animation, limited animation dan rotoscoping.
 
-    Rendering
+Rendering
 
 Akhir proses animasi 3D adalah rendering. Dalam proses ini, semua data dimasukkan meliputi modeling, animasi, texturing serta pencahayaan yang kemudian diolah dan diterjemahkan menjadi sebuah bentuk output.
 
 Perbedaan Animasi 2D dan 3D
 
 Dari beberapa uraian di atas, bisa disimpulkan jika animasi 2D dan 3D punya beberapa perbedaan yang mendasar. Perbedaan ini mulai bentuk, proses hingga output yang dihasilkan. Kamu bisa lihat perbedaannya dalam rangkuman berikut ini.
-
-    Animasi 2D hanya memiliki panjang dan lebar (X axis dan Y axis), sementara animasi 3D juga punya kedalaman (X axis, Y axis dan Z axis).
-    Karena memiliki 3 axis, animasi 3D terlihat lebih nyata dibandingkan animasi 2D.
-    Objek di animasi 3D bisa dibuat mendekati objek di kehidupan nyata, sementara animasi 2D tidak bisa.
-    Proses pembuatan animasi 3D lebih rumit dan menggunakan bantuan komputer, sementara animasi 2D bisa dengan cara konvensional (menggunakan teknik celluloid).
-    Animasi 3D tak hanya membutuhkan skill menggambar, tetapi juga keahlian mengoperasikan program komputer.
+Animasi 2D hanya memiliki panjang dan lebar (X axis dan Y axis), sementara animasi 3D juga punya kedalaman (X axis, Y axis dan Z axis).
+Karena memiliki 3 axis, animasi 3D terlihat lebih nyata dibandingkan animasi 2D.
+Objek di animasi 3D bisa dibuat mendekati objek di kehidupan nyata, sementara animasi 2D tidak bisa.
+Proses pembuatan animasi 3D lebih rumit dan menggunakan bantuan komputer, sementara animasi 2D bisa dengan cara konvensional (menggunakan teknik celluloid).
+Animasi 3D tak hanya membutuhkan skill menggambar, tetapi juga keahlian mengoperasikan program komputer.
     
     
 2)) Prinsip dasar animasi adalah Prinsip-prinsip yang digunakan seorang animator untukmengetahui dan memahami bagaimana sebuah animasi dibuat sedemikian rupa sehingga didapatkan hasil animasi yang menarik, dinamis dan tidak membosankan. Prinsip dasar ini animasi ini sebenarnya paling pas digunakan untuk animasi kartun
